@@ -5,7 +5,7 @@ public class testausgabe {
 		zaehl();
 	}
 
-	
+	//Neue Methode
 	public static void zaehl(){
 		int zahl = 0;
 		for(int i = 0;i<100;i++){
