@@ -3,6 +3,7 @@ public class testausgabe {
 
 	public static void main(String[] args) {
 		zaehl();
+		bye();
 	}
 
 	//Neue Methode
@@ -13,5 +14,9 @@ public class testausgabe {
 			System.out.println(zahl);
 		}
 		
+	}
+	
+	public static void bye(){
+		System.out.println("Danke für das ausführen meines Programmes.");
 	}
 }
